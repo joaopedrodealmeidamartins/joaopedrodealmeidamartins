@@ -1,0 +1,42 @@
+body {
+  background-color: #0B0C10;
+  color: #C5C6C7;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+  background-color: #1F2833;
+}
+
+.btn-terminal {
+  background-color: #14A76C;
+  color: #fff;
+  border: none;
+  transition: all 0.3s ease;
+}
+
+.btn-terminal:hover {
+  background-color: #00FF88;
+  color: #0B0C10;
+}
+
+h1, h2, h3 {
+  color: #00FF88;
+}
+
+a {
+  color: #14A76C;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00FF88;
+}
+
+footer {
+  background-color: #1F2833;
+  color: #C5C6C7;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: 40px;
+}
