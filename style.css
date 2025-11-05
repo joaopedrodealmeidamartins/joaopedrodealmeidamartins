@@ -40,3 +40,16 @@ footer {
   padding: 15px 0;
   margin-top: 40px;
 }
+
+.descricaoProfissional {
+  text-align: justify; 
+  font-size: 0.95rem; 
+  line-height: 1.6;
+}
+
+.descricaoExperiencia {
+  text-align: justify; 
+  font-size: 0.95rem; 
+  line-height: 1.6;
+  margin-left: 50px;
+}
